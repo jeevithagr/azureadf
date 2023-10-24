@@ -1,0 +1,9 @@
+{
+	"name": "myDatamigrationdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40ee07a9-b576-42d5-8fe4-900a9348362e",
+		"tenantId": "319f3446-2504-452d-8c24-a497031d18d3"
+	}
+}
